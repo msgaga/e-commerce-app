@@ -153,3 +153,9 @@ tmp/
 
 # Keep empty directories
 !.gitkeep
+
+# Product Data
+product-service/data/
+**/target/
+.idea/
+*.log
